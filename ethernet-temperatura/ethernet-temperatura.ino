@@ -1,6 +1,7 @@
 /*
   Exercício de envio de temperaturas
   Nova mudança
+  by eduardo
 */
 
 #include <SPI.h>
